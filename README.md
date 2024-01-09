@@ -1,2 +1,2 @@
 # consejo-promo-amazonas
-Pagina webestatica, diseñada para mostrar informacion sobre la urbanizacion promoAmazonas
+Pagina web estatica, diseñada para mostrar informacion sobre la urbanizacion promoAmazonas
